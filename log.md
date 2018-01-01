@@ -3,6 +3,29 @@
 ### Day 1: January 3rd, 2018
 The Project for the next week is to set up a simple MongoDB/Express/Node/Pug App with a focus on learning the database, route with Express, and learn Pug from start to finish. I'll use a simple bootstrap template to get started and make it sexy. 
 
+Resources and Docs 
+https://pugjs.org/api/getting-started.html
+https://expressjs.com/
+https://nodejs.org/en/
+https://github.com/wikimedia/jquery.i18n
+https://phraseapp.com/blog/posts/jquery-i18n-the-advanced-guide/
+
+Specs: 
+
+Use Yarn and NPM for package management of bootstrap and more 
+Use Express-Generator 
+Set up Routes for different pages 
+Translate certain words based on parameters - ex. Ni Hao or Hello
+Contact Form should send Name, Email, and Phone Number to a MongoDB Database 
+Node should send an email to the email provided
+Project should be fully deployed on either Digital Ocean or AWS
+I should learn how to set up a code linter. 
+FullPage.JS
+
+
+
+
+
 Day 1 Progress:
 
 
