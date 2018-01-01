@@ -1,4 +1,11 @@
 # 100 Days Of Code - Log
+
+### Day 1: January 3rd, 2018
+The Project for the next week is to set up a simple MongoDB/Express/Node/Pug App with a focus on learning the database, route with Express, and learn Pug from start to finish. I'll use a simple bootstrap template to get started and make it sexy. 
+
+Day 1 Progress:
+
+
 <!---
 ### Day 0: February 30, 2016 (Example 1)
 ##### (delete me or comment me out)
