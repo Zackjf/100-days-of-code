@@ -1,14 +1,14 @@
 # 100 Days Of Code - Log
 
 ### Day 1: January 3rd, 2018
-The Project for the next week is to set up a simple MongoDB/Express/Node/Pug App with a focus on learning the database, route with Express, and learn Pug from start to finish. I'll use a simple bootstrap template to get started and make it sexy. 
+The Project for the next week is to set up a simple MongoDB/Express/Node/Pug App with a focus on learning the database, route with Express, and learn Handlebars from start to finish. I'll use a simple bootstrap template to get started and make it sexy. 
 
 Resources and Docs 
-https://pugjs.org/api/getting-started.html
 https://expressjs.com/
 https://nodejs.org/en/
 https://github.com/wikimedia/jquery.i18n
 https://phraseapp.com/blog/posts/jquery-i18n-the-advanced-guide/
+http://handlebarsjs.com/
 
 Specs: 
 
